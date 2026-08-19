@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: tconjei
+Specification-Version: 1.6.0
+Specification-Vendor: paypur
+Implementation-Title: TConJEI
+Implementation-Version: 1.21.1-1.6.0
+Implementation-Vendor: paypur
+

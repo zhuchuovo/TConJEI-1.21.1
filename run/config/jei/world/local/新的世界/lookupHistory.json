@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"tconstruct:tool_binding","components":{"minecraft:custom_data":{"Material":"tconstruct:cobalt"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tconstruct:tool_binding","components":{"minecraft:custom_data":{"tic_display":1,"Material":"tconstruct:ui_render#extra"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tconstruct:pickaxe","components":{"minecraft:custom_data":{"tic_persistent":{},"tic_stats":{"tconstruct:attack_speed":1.2,"tconstruct:mining_speed":2.0,"tconstruct:attack_damage":1.0,"tconstruct:durability":60.0},"tic_materials":["tconstruct:wood","tconstruct:wood","tconstruct:vine"],"tic_modifiers":[{"name":"tconstruct:solar_powered","level":1},{"name":"tconstruct:cultivated","level":2},{"name":"tconstruct:pierce","level":1}],"tic_volatile_data":{"abilities":1,"upgrades":3}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tconstruct:small_axe_head","components":{"minecraft:custom_data":{"Material":"tconstruct:slimewood#enderbark"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tconstruct:mattock","components":{"minecraft:custom_data":{}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

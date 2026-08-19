@@ -1,0 +1,7 @@
+{
+    "tconjei.tool_stats.harvest": "Характ. добычи",
+    "tconjei.tool_stats.ranged": "Характ. дальнего оружия",
+    "tconjei.tool_stats.armor": "Характ. брони",
+
+    "tconjei.tooltip.tier": "Уровень %s"
+}
