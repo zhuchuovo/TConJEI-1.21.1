@@ -1,6 +1,3 @@
-# Tinkers' Construct
-# Tinkers' Construct 1.21.1
-
 本项目是 **Tinkers' Construct** 面向 **Minecraft 1.21.1 + NeoForge** 的 `3.11.2` 移植版，基于上游 `3.11.2` 版本开展适配工作。
 这是一个面向 **Minecraft 1.21.1** 与 **NeoForge** 的 Tinkers' Construct（匠魂）移植项目。模组围绕“部件—材料—改造”体系扩展工具、武器和护甲的制作与成长，让玩家可以按用途组合部件、选择材料特性，并通过强化改造持续调整装备能力。
 
